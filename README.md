@@ -5,10 +5,9 @@
 ![viewfinal](https://user-images.githubusercontent.com/![calulator](https://github.com/user-attachments/assets/3a445bfb-0624-4fca-a3dd-c4f3ad87e5e1)
 
 
-![view final](https://user-images.githubusercontent.com/![calulator](https://github.com/user-attachments/assets/785eeeaa-3cdd-4ba7-8cfa-5bc6bac0adb9)
-)
 
-- [Demo Project](https://github.com/Hirad-Jafari/Calulator-/blob/main/index.html)
+
+- [Demo Project](file:///C:/Users/ASUS/Desktop/project%20resume/calculator/index.html)
 
 - Developed by Hirad Jafari
 
