@@ -7,7 +7,7 @@
 
 
 
-- [Demo Project](file:///C:/Users/ASUS/Desktop/project%20resume/calculator/index.html)
+- [Demo Project](https://github.com/Hirad-Jafari/Calulator-.git)
 
 - Developed by Hirad Jafari
 
