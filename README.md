@@ -7,7 +7,7 @@
 
 
 
-- [Demo Project](https://github.com/Hirad-Jafari/Calulator-.git)
+- [Demo Project](https://github.com/Hirad-Jafari/Calulator-.git) 
 
 - Developed by Hirad Jafari
 
